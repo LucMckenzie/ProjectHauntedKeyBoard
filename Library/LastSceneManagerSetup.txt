@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/GameDev/GDS312/GDS314-HTT - Copy/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
