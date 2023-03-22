@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7125753cf4a22cb8742e2f646c7234c1ec9cc2722d31998ab518048898649458
-size 541
+namespace UnityEditor.U2D.Animation
+{
+    internal enum SkinningMode
+    {
+        SpriteSheet,
+        Character
+    }
+
+    internal enum Tools
+    {
+        EditGeometry,
+        CreateVertex,
+        CreateEdge,
+        SplitEdge,
+        GenerateGeometry,
+        EditPose,
+        EditJoints,
+        CreateBone,
+        SplitBone,
+        ReparentBone,
+        WeightSlider,
+        WeightBrush,
+        GenerateWeights,
+        BoneInfluence,
+        SpriteInfluence,
+        CopyPaste,
+        Visibility,
+        SwitchMode
+    }
+}
