@@ -9,6 +9,13 @@
 [Uu]serSettings/
 [Aa]rtifacts/
 [Bb]ee/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Ll]ogs/
+/[Pp]ackageCache/
+/[Uu]serSettings/
+/[Aa]rtifacts/
+/[Bb]ee/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 
