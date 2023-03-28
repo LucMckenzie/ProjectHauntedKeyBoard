@@ -449,6 +449,7 @@
 "Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/PropertyProvider_UnityEngine_Events_UnityEventBase.cs"
 "Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/PropertyProvider_UnityEngine_ParticleSystem_MinMaxCurve.cs"
 "Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/PropertyProvider_UnityEngine_ParticleSystem_MinMaxGradient.cs"
+"Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/PropertyProvider_UnityEngine_Quaternion.cs"
 "Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/PropertyProvider_UnityEngine_TextCore_Glyph.cs"
 "Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/PropertyProvider_UnityEngine_TextCore_GlyphMetrics.cs"
 "Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/PropertyProvider_UnityEngine_TextCore_GlyphRect.cs"
