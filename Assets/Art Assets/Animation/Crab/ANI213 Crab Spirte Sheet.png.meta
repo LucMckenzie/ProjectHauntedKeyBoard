@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -1204,13 +1204,13 @@ TextureImporter:
       ANI213 Crab Spirte Sheet_32: -718595369
       ANI213 Crab Spirte Sheet_2: 1707123904
       ANI213 Crab Spirte Sheet_6: -1311117379
+      ANI213 Crab Spirte Sheet_30: 1200162231
       ANI213 Crab Spirte Sheet_19: -1721923668
       ANI213 Crab Spirte Sheet_31: -752818088
       ANI213 Crab Spirte Sheet_15: -591534263
       ANI213 Crab Spirte Sheet_44: 718759406
       ANI213 Crab Spirte Sheet_25: 1947789177
       ANI213 Crab Spirte Sheet_11: 720527057
-      ANI213 Crab Spirte Sheet_30: 1200162231
       ANI213 Crab Spirte Sheet_26: -2103411099
       ANI213 Crab Spirte Sheet_38: -634554570
       ANI213 Crab Spirte Sheet_14: -1971720943

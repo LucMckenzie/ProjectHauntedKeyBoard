@@ -43,6 +43,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: FARBackground
+    uniqueID: 1224760527
+    locked: 0
   - name: Above
     uniqueID: 3375437753
     locked: 0
