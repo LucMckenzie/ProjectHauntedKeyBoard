@@ -538,7 +538,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -919529543
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -3903,7 +3903,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 65153357
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -9848,7 +9848,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -919529543
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -10917,7 +10917,7 @@ GameObject:
   - component: {fileID: 1320173133}
   - component: {fileID: 1320173132}
   - component: {fileID: 1320173135}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PandoSprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11025,7 +11025,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -919529543
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -452703530, guid: c393694a8776a2b488a1815d91ee929d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -11677,7 +11677,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 37.61345, y: -2.8032367}
+  m_Offset: {x: 560.8666, y: -2.8032367}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -11688,7 +11688,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 162.518, y: 5.55199}
+  m_Size: {x: 1757.627, y: 5.55199}
   m_EdgeRadius: 0
 --- !u!1 &1467215961
 GameObject:
