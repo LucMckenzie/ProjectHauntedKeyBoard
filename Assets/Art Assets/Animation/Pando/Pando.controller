@@ -126,19 +126,19 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: PandoIdling
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: PandoJump
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 1
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -297,7 +297,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New State
+  m_Name: PandoIdol1
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -329,7 +329,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 4923463406413685315}
-    m_Position: {x: 400, y: 280, z: 0}
+    m_Position: {x: 350, y: 280, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7153677425612031315}
     m_Position: {x: 300, y: -100, z: 0}
@@ -348,4 +348,4 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 180, y: 470, z: 0}
   m_ExitPosition: {x: 580, y: -220, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: 4923463406413685315}
+  m_DefaultState: {fileID: 7153677425612031315}
