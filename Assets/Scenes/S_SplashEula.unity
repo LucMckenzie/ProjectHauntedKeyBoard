@@ -447,7 +447,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1826231305}
   m_Direction: 2
   m_Value: 1.0000002
-  m_Size: 0.24571432
+  m_Size: 0.1728832
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1498,64 +1498,67 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'END USER LICENSE AGREEMENT (EULA) FOR PANDO PLATYPUS''S TYPING BONANZA
+  m_text: '
 
-    
 
-    PLEASE
-    READ THIS END USER LICENSE AGREEMENT ("EULA") CAREFULLY BEFORE DOWNLOADING OR
-    USING PANDO PLATYPUS''S TYPING BONANZA ("THE GAME"). THIS EULA IS A LEGAL AGREEMENT
-    BETWEEN YOU ("USER") AND ZACHARIEL ALEXANDER COMPANY ("ZAC"). BY DOWNLOADING
-    OR USING THE GAME, USER AGREES TO BE BOUND BY THE TERMS OF THIS EULA. IF USER
-    DOES NOT AGREE TO THE TERMS OF THIS EULA, DO NOT DOWNLOAD OR USE THE GAME.
+    END USER LICENSE AGREEMENT (EULA) FOR PANDO PLATYPUS''S TYPING
+    BONANZA
 
-    
 
-    LICENSE
-    GRANT. ZAC grants User a non-exclusive, non-transferable license to download,
-    install, and use the Game for personal use only on User''s device(s) solely for
-    the purpose of participating in Pando Platypus''s Typing Bonanza. User may not
-    use the Game for any other purpose.
 
-    
+    PLEASE READ THIS END USER LICENSE AGREEMENT ("EULA") CAREFULLY
+    BEFORE DOWNLOADING OR USING PANDO PLATYPUS''S TYPING BONANZA ("THE GAME"). THIS
+    EULA IS A LEGAL AGREEMENT BETWEEN YOU ("USER") AND ZACHARIEL ALEXANDER COMPANY
+    ("ZAC"). BY DOWNLOADING OR USING THE GAME, USER AGREES TO BE BOUND BY THE TERMS
+    OF THIS EULA. IF USER DOES NOT AGREE TO THE TERMS OF THIS EULA, DO NOT DOWNLOAD
+    OR USE THE GAME.
 
-    OWNERSHIP. The Game is licensed,
-    not sold, to User for use only under the terms of this EULA, and ZAC reserves
-    all rights not expressly granted to User. User acknowledges that all intellectual
-    property rights, including without limitation copyrights, patents, trademarks,
-    and trade secrets, in the Game and any accompanying materials are owned by ZAC
-    and its licensors.
 
-    
 
-    DATA COLLECTION. User agrees to allow the Game
-    to collect data on User''s typing performance and usage of the Game, which will
-    be sent back to an unlisted government department. User acknowledges and consents
-    to the collection and transmission of this data.
+    LICENSE GRANT. ZAC grants User a non-exclusive, non-transferable
+    license to download, install, and use the Game for personal use only on User''s
+    device(s) solely for the purpose of participating in Pando Platypus''s Typing
+    Bonanza. User may not use the Game for any other purpose.
 
-    
 
-    INHUMAN INTELLIGENCES.
-    User acknowledges and agrees that the Game is designed to attract and engage
-    with inhuman intelligences. User assumes all responsibility for any interaction
-    with inhuman intelligences while using the Game.
 
-    
+    OWNERSHIP. The
+    Game is licensed, not sold, to User for use only under the terms of this EULA,
+    and ZAC reserves all rights not expressly granted to User. User acknowledges
+    that all intellectual property rights, including without limitation copyrights,
+    patents, trademarks, and trade secrets, in the Game and any accompanying materials
+    are owned by ZAC and its licensors.
 
-    LIABILITY. User
-    agrees that ZAC and any unlisted government department involved with the Game
-    are not liable for any harm or damage caused by User''s use of the Game, including
-    but not limited to any harm or damage caused by interaction with inhuman intelligences
-    or the transmission of User''s data.
 
-    
 
-    PANDO PLATYPUS. User acknowledges
-    and agrees that Zachariel Alexander Company maintains all rights to the use and
-    likeness of Pando Platypus, and any unauthorized use or reproduction of Pando
-    Platypus is strictly prohibited.
+    DATA COLLECTION. User agrees to allow
+    the Game to collect data on User''s typing performance and usage of the Game,
+    which will be sent back to an unlisted government department. User acknowledges
+    and consents to the collection and transmission of this data.
 
-    
+
+
+    INHUMAN
+    INTELLIGENCES. User acknowledges and agrees that the Game is designed to attract
+    and engage with inhuman intelligences. User assumes all responsibility for any
+    interaction with inhuman intelligences while using the Game.
+
+
+
+    LIABILITY.
+    User agrees that ZAC and any unlisted government department involved with the
+    Game are not liable for any harm or damage caused by User''s use of the Game,
+    including but not limited to any harm or damage caused by interaction with inhuman
+    intelligences or the transmission of User''s data.
+
+
+
+    PANDO PLATYPUS. User
+    acknowledges and agrees that Zachariel Alexander Company maintains all rights
+    to the use and likeness of Pando Platypus, and any unauthorized use or reproduction
+    of Pando Platypus is strictly prohibited.
+
+
 
     GOVERNING LAW. This EULA shall
     be governed by and construed in accordance with the laws of any Intraterrestial/Exoterrestial/Extraterrestial
@@ -1563,20 +1566,20 @@ MonoBehaviour:
     conflicts of law. The United Nations Convention on Contracts for the International
     Sale of Goods shall not apply to this EULA.
 
-    
 
-    TERMINATION. ZAC may
-    terminate this EULA if User fails to comply with any of the terms and conditions
-    of this EULA. In such event, User must immediately cease all use of the Game
-    and destroy all copies of the Game in User''s possession.
 
-    
+    TERMINATION. ZAC may terminate
+    this EULA if User fails to comply with any of the terms and conditions of this
+    EULA. In such event, User must immediately cease all use of the Game and destroy
+    all copies of the Game in User''s possession.
 
-    MISCELLANEOUS.
-    This EULA constitutes the entire agreement between User and ZAC concerning the
-    Game and supersedes all prior or contemporaneous communications and proposals,
-    whether oral or written, between the parties concerning the Game. If any provision
-    of this EULA is held to be unenforceable, such provision shall be reformed only
+
+
+    MISCELLANEOUS. This EULA
+    constitutes the entire agreement between User and ZAC concerning the Game and
+    supersedes all prior or contemporaneous communications and proposals, whether
+    oral or written, between the parties concerning the Game. If any provision of
+    this EULA is held to be unenforceable, such provision shall be reformed only
     to the extent necessary to make it enforceable, and such decision shall not affect
     the enforceability of such provision under other circumstances or the remaining
     provisions hereof. No waiver of any provision of this EULA shall be deemed a
@@ -1613,7 +1616,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32.95
+  m_fontSize: 30.3
   m_fontSizeBase: 32
   m_fontWeight: 400
   m_enableAutoSizing: 1
